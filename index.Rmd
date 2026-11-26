@@ -1,0 +1,19 @@
+---
+title: "weed"
+author: "Juan Carlos Roldan Cabello"
+date: "2026-11-26"
+output: 
+  github_document:
+    html_preview: FALSE
+  html_document:
+    toc: TRUE
+    number_sections: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Pagina inicial del weed
